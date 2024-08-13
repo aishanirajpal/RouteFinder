@@ -1,0 +1,58 @@
+#creating distance relationship manually
+MATCH (station:Station {name: 'Kashmere Gate'}), (stop:Stop {name: 'Kashmere Gate'})
+CREATE (station)-[:CONNECTED {distance: 0.2}]->(stop)
+
+#deleting bus stop which already has a metro station
+MATCH (stop:Stop), (station:Station)
+WHERE stop.name = station.name
+DETACH DELETE stop
+
+#delete all nodes and relationships
+match(n) detach delete(n)
+
+#delete a node with all its relationships
+MATCH (n:stop{name: 'sabzi mandi bus stop'})
+DETACH DELETE n
+
+#adding a bus stop which is far from a metro station
+CREATE (s:Stop {name: 'rani bagh'})
+WITH s
+MATCH (sm:Station {name: 'shakurpur'})
+WITH sm, s
+CREATE (sm)-[:CONNECTED {distance: 3.0}]->(s)
+
+#merge all bus stops having same name
+MATCH (b:Stop)
+WITH b.name AS name, COLLECT(b) AS nodes
+WHERE SIZE(nodes) > 1
+
+CALL {
+  WITH nodes
+  UNWIND nodes AS n
+  WITH n LIMIT 1
+  RETURN n
+} AS singleNode
+WITH singleNode, [node IN nodes WHERE node <> singleNode] AS otherNodes
+
+CALL {
+  WITH singleNode, otherNodes
+  UNWIND otherNodes AS n
+  SET singleNode += n
+  CALL apoc.refactor.mergeNodes([singleNode, n]) YIELD node
+  RETURN node
+}
+
+WITH otherNodes
+UNWIND otherNodes AS n
+DELETE n
+
+#to add an attribute to node
+MATCH (n:Station)
+SET n.type = 'Metro Station'
+RETURN n.name, n.type
+
+#to set an relationship property
+MATCH ()-[r]->()
+WHERE NOT EXISTS(r.fare)
+SET r.fare = '0'
+RETURN type(r) AS relationshipType, COUNT(r) AS count

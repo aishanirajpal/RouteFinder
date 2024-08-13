@@ -1,0 +1,111 @@
+Metro Station,Bus Stop,Distance (km),Bus Timing (minutes)
+Rajiv Chowk,Palika Kendra,0.5,5
+Rajiv Chowk,Tolstoy Marg,0.8,7
+Rajiv Chowk,Regal,0.6,6
+Rajiv Chowk,Scindia House,1,10
+Rajiv Chowk,Shivaji Stadium,1.2,12
+INA,INA Colony,0.3,3
+INA,AIIMS,0.5,5
+INA,Safdarjung Terminal,0.7,7
+INA,Kidwai Nagar,1,10
+INA,Lodhi Colony,1.2,12
+Chandni Chowk,Town Hall,0.4,4
+Chandni Chowk,St. Stephen's Church,0.6,6
+Chandni Chowk,Red Fort,0.8,8
+Chandni Chowk,Kashmere Gate,1,10
+Chandni Chowk,Old Delhi Railway Station,1.2,12
+Kashmere Gate,ISBT Kashmere Gate,0.5,5
+Kashmere Gate,Mori Gate Terminal,0.7,7
+Kashmere Gate,Shakti Nagar,1,10
+Kashmere Gate,Tis Hazari Court,1.2,12
+Kashmere Gate,Civil Lines,1.5,15
+New Delhi,New Delhi Railway Station Gate 1,0.4,4
+New Delhi,Ajmeri Gate,0.6,6
+New Delhi,JLN Marg,0.8,8
+New Delhi,Kamla Market,1,10
+New Delhi,CP New Delhi,1.2,12
+Huda City Centre,Huda City Centre Terminal,0.3,3
+Huda City Centre,IFFCO Chowk,0.5,5
+Huda City Centre,Sector 29,0.7,7
+Huda City Centre,Sector 44,1,10
+Huda City Centre,Sushant Lok,1.2,12
+Rajendra Place,Rajendra Place Bus Stop,0.5,5
+Rajendra Place,Shanker Road,0.7,7
+Rajendra Place,Patel Nagar,1,10
+Rajendra Place,East Patel Nagar,1.2,12
+Rajendra Place,Pusa Road,1.5,15
+Lajpat Nagar,Lajpat Nagar Market,0.3,3
+Lajpat Nagar,Lajpat Nagar Bus Terminal,0.5,5
+Lajpat Nagar,Ring Road,0.7,7
+Lajpat Nagar,Moolchand,1,10
+Lajpat Nagar,Defence Colony,1.2,12
+Karol Bagh,Karol Bagh Metro Station Bus Stop,0.3,3
+Karol Bagh,Jhandewalan,0.5,5
+Karol Bagh,Pusa Road,0.7,7
+Karol Bagh,Rajender Nagar,1,10
+Karol Bagh,Karol Bagh Market,1.2,12
+Saket,Saket Metro Station Bus Stop,0.4,4
+Saket,Malviya Nagar,0.6,6
+Saket,Select Citywalk,0.8,8
+Saket,Pushp Vihar,1,10
+Saket,Saket District Centre,1.2,12
+Sikanderpur,Sikanderpur Metro Station Bus Stop,0.3,3
+Sikanderpur,Guru Dronacharya,0.5,5
+Sikanderpur,DLF Phase 2,0.7,7
+Sikanderpur,M G Road,1,10
+Sikanderpur,Arjun Marg,1.2,12
+Noida City Centre,Noida City Centre Terminal,0.3,3
+Noida City Centre,Sector 34,0.5,5
+Noida City Centre,Sector 50,0.7,7
+Noida City Centre,Sector 39,1,10
+Noida City Centre,Noida Stadium,1.2,12
+Botanical Garden,Botanical Garden Metro Station Bus Stop,0.3,3
+Botanical Garden,Sector 37,0.5,5
+Botanical Garden,Sector 44,0.7,7
+Botanical Garden,NTPC,1,10
+Botanical Garden,Amity University,1.2,12
+Vishwavidyalaya,Vishwavidyalaya Metro Station Bus Stop,0.4,4
+Vishwavidyalaya,University of Delhi,0.6,6
+Vishwavidyalaya,Guru Tegh Bahadur Nagar,0.8,8
+Vishwavidyalaya,Kamla Nagar,1,10
+Vishwavidyalaya,Mall Road,1.2,12
+Janakpuri West,Janakpuri West Metro Station Bus Stop,0.5,5
+Janakpuri West,District Centre,0.7,7
+Janakpuri West,Tilak Nagar,1,10
+Janakpuri West,Uttam Nagar,1.2,12
+Janakpuri West,Vikas Puri,1.5,15
+Anand Vihar,Anand Vihar ISBT,0.5,5
+Anand Vihar,Vivek Vihar,0.7,7
+Anand Vihar,Karkardooma,1,10
+Anand Vihar,Preet Vihar,1.2,12
+Anand Vihar,Patparganj,1.5,15
+Nehru Place,Nehru Place Metro Station Bus Stop,0.4,4
+Nehru Place,Kalkaji,0.6,6
+Nehru Place,CR Park,0.8,8
+Nehru Place,GK-2,1,10
+Nehru Place,East of Kailash,1.2,12
+Dwarka Sector 21,Dwarka Sector 21 Metro Station Bus Stop,0.5,5
+Dwarka Sector 21,Dwarka Sector 23,0.7,7
+Dwarka Sector 21,Dwarka Sector 22,1,10
+Dwarka Sector 21,Dwarka Sector 8,1.2,12
+Dwarka Sector 21,Dwarka Sector 10,1.5,15
+Mandi House,Mandi House Metro Station Bus Stop,0.4,4
+Mandi House,Bengali Market,0.6,6
+Mandi House,ITO,0.8,8
+Mandi House,Barakhamba Road,1,10
+Mandi House,Connaught Place,1.2,12
+Central Secretariat,Central Secretariat Metro Station Bus Stop,0.4,4
+Central Secretariat,Patel Chowk,0.6,6
+Central Secretariat,Udyog Bhawan,0.8,8
+Central Secretariat,Krishi Bhawan,1,10
+Central Secretariat,Rail Bhawan,1.2,12
+Mundka Village,Bawana,12.5,35
+Najafgarh Village,Sangam Vihar,15,45
+Bawana,Narela,8,20
+Burari,Baprola,18,50
+Chattarpur Extension,Gadaipur,5,15
+Rajokri,Mundka Village,20,55
+Narela,Najafgarh Village,25,70
+Sangam Vihar,Burari,22,60
+Baprola,Rajokri,10,30
+Gadaipur,Mundka Village,13,40

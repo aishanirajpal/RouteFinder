@@ -1,0 +1,317 @@
+From,To,Distance (km),Time (minutes)
+Palika Kendra,Tolstoy Marg,0.5,3
+Palika Kendra,Regal,1.2,8
+Palika Kendra,Scindia House,0.9,5
+Palika Kendra,Shivaji Stadium,1.8,10
+Tolstoy Marg,Regal,0.7,4
+Tolstoy Marg,Scindia House,1.3,9
+Tolstoy Marg,Shivaji Stadium,2.1,12
+Regal,Scindia House,0.6,3
+Regal,Shivaji Stadium,1.5,7
+Scindia House,Shivaji Stadium,1.1,6
+INA Colony,AIIMS,0.5,4
+INA Colony,Safdarjung Terminal,1.2,8
+INA Colony,Kidwai Nagar,1.1,7
+INA Colony,Lodhi Colony,1.6,10
+AIIMS,Safdarjung Terminal,0.7,5
+AIIMS,Kidwai Nagar,0.9,6
+AIIMS,Lodhi Colony,1.8,11
+Safdarjung Terminal,Kidwai Nagar,0.8,5
+Safdarjung Terminal,Lodhi Colony,1.4,9
+Kidwai Nagar,Lodhi Colony,1.0,6
+Town Hall,St. Stephen's Church,0.6,4
+Town Hall,Red Fort,1.1,7
+Town Hall,Kashmere Gate,1.8,10
+Town Hall,Old Delhi Railway Station,1.2,8
+St. Stephen's Church,Red Fort,0.9,5
+St. Stephen's Church,Kashmere Gate,1.5,8
+St. Stephen's Church,Old Delhi Railway Station,1.3,7
+Red Fort,Kashmere Gate,1.0,6
+Red Fort,Old Delhi Railway Station,1.6,9
+Kashmere Gate,Old Delhi Railway Station,1.2,7
+ISBT Kashmere Gate,Mori Gate Terminal,0.5,3
+ISBT Kashmere Gate,Shakti Nagar,1.3,8
+ISBT Kashmere Gate,Tis Hazari Court,1.2,7
+ISBT Kashmere Gate,Civil Lines,1.8,11
+Mori Gate Terminal,Shakti Nagar,1.1,7
+Mori Gate Terminal,Tis Hazari Court,0.9,6
+Mori Gate Terminal,Civil Lines,1.5,9
+Shakti Nagar,Tis Hazari Court,1.0,6
+Shakti Nagar,Civil Lines,1.6,10
+Tis Hazari Court,Civil Lines,1.2,7
+New Delhi Railway Station Gate 1,Ajmeri Gate,0.6,4
+New Delhi Railway Station Gate 1,JLN Marg,1.0,6
+New Delhi Railway Station Gate 1,Kamla Market,1.2,7
+New Delhi Railway Station Gate 1,CP New Delhi,0.9,5
+Ajmeri Gate,JLN Marg,0.8,5
+Ajmeri Gate,Kamla Market,1.1,7
+Ajmeri Gate,CP New Delhi,1.3,8
+JLN Marg,Kamla Market,0.9,5
+JLN Marg,CP New Delhi,1.4,8
+Kamla Market,CP New Delhi,1.0,6
+Huda City Centre Terminal,IFFCO Chowk,1.2,8
+Huda City Centre Terminal,Sector 29,1.5,9
+Huda City Centre Terminal,Sector 44,1.8,11
+Huda City Centre Terminal,Sushant Lok,2.0,12
+IFFCO Chowk,Sector 29,0.9,6
+IFFCO Chowk,Sector 44,1.4,8
+IFFCO Chowk,Sushant Lok,1.6,9
+Sector 29,Sector 44,0.8,5
+Sector 29,Sushant Lok,1.1,7
+Sector 44,Sushant Lok,1.2,8
+Rajendra Place Bus Stop,Shanker Road,0.7,5
+Rajendra Place Bus Stop,Patel Nagar,1.1,7
+Rajendra Place Bus Stop,East Patel Nagar,1.5,9
+Rajendra Place Bus Stop,Pusa Road,1.8,10
+Shanker Road,Patel Nagar,0.8,5
+Shanker Road,East Patel Nagar,1.2,7
+Shanker Road,Pusa Road,1.6,10
+Patel Nagar,East Patel Nagar,0.9,5
+Patel Nagar,Pusa Road,1.4,8
+East Patel Nagar,Pusa Road,1.0,6
+Lajpat Nagar Market,Lajpat Nagar Bus Terminal,0.5,3
+Lajpat Nagar Market,Ring Road,1.0,6
+Lajpat Nagar Market,Moolchand,1.3,8
+Lajpat Nagar Market,Defence Colony,1.7,10
+Lajpat Nagar Bus Terminal,Ring Road,0.9,5
+Lajpat Nagar Bus Terminal,Moolchand,1.2,7
+Lajpat Nagar Bus Terminal,Defence Colony,1.6,9
+Ring Road,Moolchand,0.8,5
+Ring Road,Defence Colony,1.4,8
+Moolchand,Defence Colony,1.0,6
+Karol Bagh Metro Station Bus Stop,Jhandewalan,0.6,4
+Karol Bagh Metro Station Bus Stop,Pusa Road,1.2,7
+Karol Bagh Metro Station Bus Stop,Rajender Nagar,1.5,9
+Karol Bagh Metro Station Bus Stop,Karol Bagh Market,1.8,11
+Jhandewalan,Pusa Road,0.9,5
+Jhandewalan,Rajender Nagar,1.3,8
+Jhandewalan,Karol Bagh Market,1.7,10
+Pusa Road,Rajender Nagar,0.8,5
+Pusa Road,Karol Bagh Market,1.4,8
+Rajender Nagar,Karol Bagh Market,1.0,6
+Saket Metro Station Bus Stop,Malviya Nagar,0.5,3
+Saket Metro Station Bus Stop,Select Citywalk,1.0,6
+Saket Metro Station Bus Stop,Pushp Vihar,1.4,8
+Saket Metro Station Bus Stop,Saket District Centre,1.8,11
+Malviya Nagar,Select Citywalk,0.8,5
+Malviya Nagar,Pushp Vihar,1.2,7
+Malviya Nagar,Saket District Centre,1.6,10
+Select Citywalk,Pushp Vihar,0.9,5
+Select Citywalk,Saket District Centre,1.3,8
+Pushp Vihar,Saket District Centre,1.0,6
+Sikanderpur Metro Station Bus Stop,Guru Dronacharya,0.7,5
+Sikanderpur Metro Station Bus Stop,DLF Phase 2,1.1,7
+Sikanderpur Metro Station Bus Stop,M G Road,1.4,9
+Sikanderpur Metro Station Bus Stop,Arjun Marg,1.8,11
+Guru Dronacharya,DLF Phase 2,0.8,5
+Guru Dronacharya,M G Road,1.2,7
+Guru Dronacharya,Arjun Marg,1.6,10
+DLF Phase 2,M G Road,0.9,5
+DLF Phase 2,Arjun Marg,1.3,8
+M G Road,Arjun Marg,1.0,6
+Noida City Centre Terminal,Sector 34,0.8,5
+Noida City Centre Terminal,Sector 50,1.2,7
+Noida City Centre Terminal,Sector 39,1.4,9
+Noida City Centre Terminal,Noida Stadium,1.8,11
+Sector 34,Sector 50,0.9,5
+Sector 34,Sector 39,1.3,8
+Sector 34,Noida Stadium,1.6,9
+Sector 50,Sector 39,1.0,6
+Sector 50,Noida Stadium,1.4,8
+Sector 39,Noida Stadium,1.1,7
+Botanical Garden Metro Station Bus Stop,Sector 37,0.7,5
+Botanical Garden Metro Station Bus Stop,Sector 44,1.3,8
+Botanical Garden Metro Station Bus Stop,NTPC,1.5,9
+Botanical Garden Metro Station Bus Stop,Amity University,1.8,11
+Sector 37,Sector 44,0.9,6
+Sector 37,NTPC,1.2,7
+Sector 37,Amity University,1.6,10
+Sector 44,NTPC,0.8,5
+Sector 44,Amity University,1.4,8
+NTPC,Amity University,1.0,6
+Vishwavidyalaya Metro Station Bus Stop,University of Delhi,0.5,3
+Vishwavidyalaya Metro Station Bus Stop,Guru Tegh Bahadur Nagar,1.2,7
+Vishwavidyalaya Metro Station Bus Stop,Kamla Nagar,1.4,9
+Vishwavidyalaya Metro Station Bus Stop,Mall Road,1.8,11
+University of Delhi,Guru Tegh Bahadur Nagar,0.8,5
+University of Delhi,Kamla Nagar,1.3,8
+University of Delhi,Mall Road,1.6,10
+Guru Tegh Bahadur Nagar,Kamla Nagar,0.9,5
+Guru Tegh Bahadur Nagar,Mall Road,1.5,9
+Kamla Nagar,Mall Road,1.1,7
+Janakpuri West Metro Station Bus Stop,District Centre,0.6,4
+Janakpuri West Metro Station Bus Stop,Tilak Nagar,1.3,8
+Janakpuri West Metro Station Bus Stop,Uttam Nagar,1.5,9
+Janakpuri West Metro Station Bus Stop,Vikas Puri,1.8,11
+District Centre,Tilak Nagar,0.9,6
+District Centre,Uttam Nagar,1.2,7
+District Centre,Vikas Puri,1.6,10
+Tilak Nagar,Uttam Nagar,0.8,5
+Tilak Nagar,Vikas Puri,1.4,8
+Uttam Nagar,Vikas Puri,1.0,6
+Anand Vihar ISBT,Vivek Vihar,0.5,3
+Anand Vihar ISBT,Karkardooma,1.2,7
+Anand Vihar ISBT,Preet Vihar,1.4,9
+Anand Vihar ISBT,Patparganj,1.8,11
+Vivek Vihar,Karkardooma,0.7,4
+Vivek Vihar,Preet Vihar,1.3,8
+Vivek Vihar,Patparganj,1.6,10
+Karkardooma,Preet Vihar,0.9,5
+Karkardooma,Patparganj,1.5,9
+Preet Vihar,Patparganj,1.1,7
+Nehru Place Metro Station Bus Stop,Kalkaji,0.7,4
+Nehru Place Metro Station Bus Stop,CR Park,1.2,7
+Nehru Place Metro Station Bus Stop,GK-2,1.4,9
+Nehru Place Metro Station Bus Stop,East of Kailash,1.8,11
+Kalkaji,CR Park,0.9,5
+Kalkaji,GK-2,1.3,8
+Kalkaji,East of Kailash,1.6,10
+CR Park,GK-2,0.8,5
+CR Park,East of Kailash,1.4,8
+GK-2,East of Kailash,1.0,6
+Sadar Bazar Bus Stop,Sadar Bazar,0.5,3
+Sadar Bazar Bus Stop,Roop Nagar,1.2,7
+Sadar Bazar Bus Stop,Subzi Mandi,1.4,9
+Sadar Bazar Bus Stop,Pul Bangash,1.8,11
+Sadar Bazar,Roop Nagar,0.8,5
+Sadar Bazar,Subzi Mandi,1.3,8
+Sadar Bazar,Pul Bangash,1.6,10
+Roop Nagar,Subzi Mandi,0.9,5
+Roop Nagar,Pul Bangash,1.5,9
+Subzi Mandi,Pul Bangash,1.1,7
+Sadar Bazar,Roop Nagar,0.8,5
+Sadar Bazar,Subzi Mandi,1.3,8
+Sadar Bazar,Pul Bangash,1.6,10
+Roop Nagar,Subzi Mandi,0.9,5
+Roop Nagar,Pul Bangash,1.5,9
+Subzi Mandi,Pul Bangash,1.1,7
+Sector 29,Huda City Centre,1.3,8
+IFFCO Chowk,Sushant Lok,1.6,9
+Sector 29,Sector 44,0.8,5
+Sector 29,Sushant Lok,1.1,7
+Sector 44,Sushant Lok,1.2,8
+Rajendra Place Bus Stop,Shanker Road,0.7,5
+Rajendra Place Bus Stop,Patel Nagar,1.1,7
+Rajendra Place Bus Stop,East Patel Nagar,1.5,9
+Rajendra Place Bus Stop,Pusa Road,1.8,10
+Shanker Road,Patel Nagar,0.8,5
+Shanker Road,East Patel Nagar,1.2,7
+Shanker Road,Pusa Road,1.6,10
+Patel Nagar,East Patel Nagar,0.9,5
+Patel Nagar,Pusa Road,1.4,8
+East Patel Nagar,Pusa Road,1.0,6
+Lajpat Nagar Market,Lajpat Nagar Bus Terminal,0.5,3
+Lajpat Nagar Market,Ring Road,1.0,6
+Lajpat Nagar Market,Moolchand,1.3,8
+Lajpat Nagar Market,Defence Colony,1.7,10
+Lajpat Nagar Bus Terminal,Ring Road,0.9,5
+Lajpat Nagar Bus Terminal,Moolchand,1.2,7
+Lajpat Nagar Bus Terminal,Defence Colony,1.6,9
+Ring Road,Moolchand,0.8,5
+Ring Road,Defence Colony,1.4,8
+Moolchand,Defence Colony,1.0,6
+Karol Bagh Metro Station Bus Stop,Jhandewalan,0.6,4
+Karol Bagh Metro Station Bus Stop,Pusa Road,1.2,7
+Karol Bagh Metro Station Bus Stop,Rajender Nagar,1.5,9
+Karol Bagh Metro Station Bus Stop,Karol Bagh Market,1.8,11
+Jhandewalan,Pusa Road,0.9,5
+Jhandewalan,Rajender Nagar,1.3,8
+Jhandewalan,Karol Bagh Market,1.7,10
+Pusa Road,Rajender Nagar,0.8,5
+Pusa Road,Karol Bagh Market,1.4,8
+Rajender Nagar,Karol Bagh Market,1.0,6
+Saket Metro Station Bus Stop,Malviya Nagar,0.5,3
+Saket Metro Station Bus Stop,Select Citywalk,1.0,6
+Saket Metro Station Bus Stop,Pushp Vihar,1.4,8
+Saket Metro Station Bus Stop,Saket District Centre,1.8,11
+Malviya Nagar,Select Citywalk,0.8,5
+Malviya Nagar,Pushp Vihar,1.2,7
+Malviya Nagar,Saket District Centre,1.6,10
+Select Citywalk,Pushp Vihar,0.9,5
+Select Citywalk,Saket District Centre,1.3,8
+Pushp Vihar,Saket District Centre,1.0,6
+Sikanderpur Metro Station Bus Stop,Guru Dronacharya,0.7,5
+Sikanderpur Metro Station Bus Stop,DLF Phase 2,1.1,7
+Sikanderpur Metro Station Bus Stop,M G Road,1.4,9
+Sikanderpur Metro Station Bus Stop,Arjun Marg,1.8,11
+Guru Dronacharya,DLF Phase 2,0.8,5
+Guru Dronacharya,M G Road,1.2,7
+Guru Dronacharya,Arjun Marg,1.6,10
+DLF Phase 2,M G Road,0.9,5
+DLF Phase 2,Arjun Marg,1.3,8
+M G Road,Arjun Marg,1.0,6
+Noida City Centre Terminal,Sector 34,0.8,5
+Noida City Centre Terminal,Sector 50,1.2,7
+Noida City Centre Terminal,Sector 39,1.4,9
+Noida City Centre Terminal,Noida Stadium,1.8,11
+Sector 34,Sector 50,0.9,5
+Sector 34,Sector 39,1.3,8
+Sector 34,Noida Stadium,1.6,9
+Sector 50,Sector 39,1.0,6
+Sector 50,Noida Stadium,1.4,8
+Sector 39,Noida Stadium,1.1,7
+Botanical Garden Metro Station Bus Stop,Sector 37,0.7,5
+Botanical Garden Metro Station Bus Stop,Sector 44,1.3,8
+Botanical Garden Metro Station Bus Stop,NTPC,1.5,9
+Botanical Garden Metro Station Bus Stop,Amity University,1.8,11
+Sector 37,Sector 44,0.9,6
+Sector 37,NTPC,1.2,7
+Sector 37,Amity University,1.6,10
+Sector 44,NTPC,0.8,5
+Sector 44,Amity University,1.4,8
+NTPC,Amity University,1.0,6
+Vishwavidyalaya Metro Station Bus Stop,University of Delhi,0.5,3
+Vishwavidyalaya Metro Station Bus Stop,Guru Tegh Bahadur Nagar,1.2,7
+Vishwavidyalaya Metro Station Bus Stop,Kamla Nagar,1.4,9
+Vishwavidyalaya Metro Station Bus Stop,Mall Road,1.8,11
+University of Delhi,Guru Tegh Bahadur Nagar,0.8,5
+University of Delhi,Kamla Nagar,1.3,8
+University of Delhi,Mall Road,1.6,10
+Guru Tegh Bahadur Nagar,Kamla Nagar,0.9,5
+Guru Tegh Bahadur Nagar,Mall Road,1.5,9
+Kamla Nagar,Mall Road,1.1,7
+Janakpuri West Metro Station Bus Stop,District Centre,0.6,4
+Janakpuri West Metro Station Bus Stop,Tilak Nagar,1.3,8
+Janakpuri West Metro Station Bus Stop,Uttam Nagar,1.5,9
+Janakpuri West Metro Station Bus Stop,Vikas Puri,1.8,11
+District Centre,Tilak Nagar,0.9,6
+District Centre,Uttam Nagar,1.2,7
+District Centre,Vikas Puri,1.6,10
+Tilak Nagar,Uttam Nagar,0.8,5
+Tilak Nagar,Vikas Puri,1.4,8
+Uttam Nagar,Vikas Puri,1.0,6
+Anand Vihar ISBT,Vivek Vihar,0.5,3
+Anand Vihar ISBT,Karkardooma,1.2,7
+Anand Vihar ISBT,Preet Vihar,1.4,9
+Anand Vihar ISBT,Patparganj,1.8,11
+Vivek Vihar,Karkardooma,0.7,4
+Vivek Vihar,Preet Vihar,1.3,8
+Vivek Vihar,Patparganj,1.6,10
+Karkardooma,Preet Vihar,0.9,5
+Karkardooma,Patparganj,1.5,9
+Preet Vihar,Patparganj,1.1,7
+Nehru Place Metro Station Bus Stop,Kalkaji,0.7,4
+Nehru Place Metro Station Bus Stop,CR Park,1.2,7
+Nehru Place Metro Station Bus Stop,GK-2,1.4,9
+Nehru Place Metro Station Bus Stop,East of Kailash,1.8,11
+Kalkaji,CR Park,0.8,5
+Kalkaji,GK-2,1.3,8
+Kalkaji,East of Kailash,1.6,10
+CR Park,GK-2,0.8,5
+CR Park,East of Kailash,1.4,8
+GK-2,East of Kailash,1.0,6
+Sadar Bazar Bus Stop,Sadar Bazar,0.5,3
+Sadar Bazar Bus Stop,Roop Nagar,1.2,7
+Sadar Bazar Bus Stop,Subzi Mandi,1.4,9
+Sadar Bazar Bus Stop,Pul Bangash,1.8,11
+Sadar Bazar,Roop Nagar,0.8,5
+Sadar Bazar,Subzi Mandi,1.3,8
+Sadar Bazar,Pul Bangash,1.6,10
+Roop Nagar,Subzi Mandi,0.9,5
+Roop Nagar,Pul Bangash,1.5,9
+Subzi Mandi,Pul Bangash,1.1,7
+Sadar Bazar,Roop Nagar,0.8,5
+Sadar Bazar,Subzi Mandi,1.3,8
+Sadar Bazar,Pul Bangash,1.6,10
+Roop Nagar,Subzi Mandi,0.9,5
+Roop Nagar,Pul Bangash,1.5,9
